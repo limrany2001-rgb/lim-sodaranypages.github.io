@@ -23,12 +23,12 @@ repository               : "lim-sodaranypages/lim-sodaranypages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Profile_pic2.png"
+  name             : "LIM Sodarany"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Battambang, Cambodia"
+  employer         : "Institute Technolgy of Cambodia"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -55,7 +55,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.linkedin.com/in/lim-sodarany/ "# Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -137,7 +137,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : LIM Sodarany
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
